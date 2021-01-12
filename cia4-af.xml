@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cia SYSTEM "cia.dtd">
+<cia>
+	<countries>
+		<country id="0TZ1000" region ="NAF" nation = "TZ" government_type = "GT04" organisation ="OON">
+			<name>Египет</name>
+			<image_flag>egypt_flag.png</image_flag> 
+			<image_blazon>egypt_blazon.png</image_blazon> 
+			<capital>Кайро</capital>
+			<anthem>
+				<song>
+					<title>Родино моя, родино моя, родино моя</title>
+					<author>Мохамед Юнис Ал-Кади</author>
+					<year>1979</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="0EG1000" region ="EAF" nation = "EG" government_type = "GT02" organisation ="OON AU">
+			<name>Танзания</name>
+			<image_flag>tanzania_flag.png</image_flag> 
+			<image_blazon>tanzania_blazon.png</image_blazon> 
+			<capital>Додома</capital>
+			<anthem>
+				<song>
+					<title>Бог да благослови Африка</title>
+					<author>Мохамед Юнис Ал-Кади</author>
+					<year>1979</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="0SD1000" region ="EAF" nation = "SD" government_type = "GT02" organisation ="OON AU">
+			<name>Судан</name>
+			<image_flag>sudan_flag.png</image_flag> 
+			<image_blazon>sudan_blazon.png</image_blazon> 
+			<capital>Хартум</capital>
+			<anthem>
+				<song>
+					<title>Ние сме войници на Господ и на нашата земя</title>
+					<author>Ахмад Мухамад Салих</author>
+					<year>1956</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="0DZ1000" region ="EAF" nation = "DZ" government_type = "GT07" organisation ="OON AU">
+			<name>Алжир</name>
+			<image_flag>aljir_flag.png</image_flag> 
+			<image_blazon>aljir_blazon.png</image_blazon> 
+			<capital>Алжир</capital>
+			<anthem>
+				<song>
+					<title>От хората за хората</title>
+					<author>	Махмуд ел Шериф</author>
+					<year>1969</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="0LY1000" region ="EAF" nation = "LY" government_type = "GT07" organisation ="OON AU">
+			<name>Либия</name>
+			<image_flag>libia_flag.png</image_flag> 
+			<image_blazon>libia_blazon.png</image_blazon> 
+			<capital>Триполи</capital>
+			<anthem>
+				<song>
+					<title>Либия, Либия, Либия</title>
+					<author>	Махмуд ел Шериф</author>
+					<year>1969</year>
+				</song>
+			</anthem>
+		</country>
+	</countries>	
+	
+	<regions>
+		<region con_id="NAF">
+			<continent>Северна Африка</continent>
+			<climate>Екваториален</climate>
+			<timezone>UTC+2</timezone>
+		</region>
+		<region con_id="EAF">
+			<continent>Източна Африка</continent>
+			<climate>Тропичен</climate>
+			<timezone>UTC+3</timezone>
+		</region>
+		
+	</regions>
+	
+	<nations>
+		<nation nat_id="EG">
+			<demonym>Египтяни</demonym>
+			<population>94 798 827</population>
+			<language>арабски</language>
+			<religion>ислям</religion>
+		</nation>	
+		<nation nat_id="TZ">
+			<demonym>Танзаниици</demonym>
+			<population>55 572 201</population>
+			<language>суахили</language>
+			<religion>ислям</religion>
+			<religion>християнство</religion>
+		</nation>
+		<nation nat_id="SD">
+			<demonym>Суданци</demonym>
+			<population>39 578 828	</population>
+			<language>арабски</language>
+			<language>английски</language>
+			<religion>ислям</religion>
+			<religion>християнство</religion>
+		</nation>
+		<nation nat_id="LY">
+			<demonym>Либиици</demonym>
+			<population>5 670 688</population>
+			<language>арабски</language>
+			<religion>ислям</religion>
+		</nation>
+		<nation nat_id="DZ">
+			<demonym>Алжирец</demonym>
+			<population>42 200 000</population>
+			<language>арабски</language>
+			<religion>ислям</religion>
+		</nation>
+	</nations>
+	
+<government_types>
+		<government_type gov_id = "GT01">
+			<type>Република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT02">
+			<type>Президентска република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT03">
+			<type>Парламентарна република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT04">
+			<type>Полупрезидентска република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT05">
+			<type>Монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT06">
+			<type>Абсолютна монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT07">
+			<type>Конституционна монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT08">
+			<type>Дуалистична монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT09">
+			<type>Парламентарна монархия</type>
+		</government_type>
+</government_types>
+	
+<organisations>
+		<organisation org_id="NATO">
+			<org_name>НАТО</org_name>
+			<year_establishment>1949</year_establishment>
+		</organisation>
+		
+		<organisation org_id="ES">
+			<org_name>Европейски съюз</org_name>
+			<year_establishment>1958</year_establishment>
+		</organisation>
+		
+		<organisation org_id="NAFTA">
+			<org_name>Северноамериканското споразумение за свободна търговия</org_name>
+			<year_establishment>1994</year_establishment>
+		</organisation>
+		
+		<organisation org_id="BU">
+			<org_name>Британската общност</org_name>
+			<year_establishment></year_establishment>
+		</organisation>
+		
+		<organisation org_id="AU">
+			<org_name>Африкански съюз</org_name>
+			<year_establishment>2002</year_establishment>
+		</organisation>
+		
+		<organisation org_id="OON">
+			<org_name>Организацията на обединените нации</org_name>
+			<year_establishment>1945</year_establishment>
+		</organisation>
+		
+		<organisation org_id="BRICS">
+			<org_name>БРИКС</org_name>
+			<year_establishment>2009</year_establishment>
+		</organisation>
+		
+		<organisation org_id="CPLP">
+			<org_name>Организация на португалско говорящите държави</org_name>
+			<year_establishment>1996</year_establishment>
+		</organisation>
+		<organisation org_id="SHEN">
+			<org_name>Шенгенско пространство</org_name>
+			<year_establishment>1985</year_establishment>
+		</organisation>
+		<organisation org_id="STO">
+			<org_name>Световна търговска организация</org_name>
+			<year_establishment>1995</year_establishment>
+		</organisation>
+</organisations>
+	
+</cia>

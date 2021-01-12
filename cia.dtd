@@ -1,0 +1,47 @@
+<!ELEMENT cia ( countries, regions, nations, government_types,organizations)>
+	<!ELEMENT countries ( country+ )>
+		<!ELEMENT country ( name,image_flag?,image_blazon?,capital,anthem?) >
+			<!ATTLIST       country id 	ID 		#REQUIRED
+			                region 	    IDREFS 	#REQUIRED
+							nation 	    IDREFS 	#REQUIRED
+			                government_type  IDREFS 	#REQUIRED 
+							organization  	IDREFS 	#REQUIRED >
+							
+							
+			<!ELEMENT name ( #PCDATA )>
+            <!ELEMENT image_flag ( #PCDATA )>
+            <!ELEMENT image_blazon ( #PCDATA )>
+            <!ELEMENT capital ( #PCDATA )>
+			<!ELEMENT anthem (song)>
+				<!ELEMENT song (title, author,year)>
+					<!ELEMENT title (#PCDATA)>
+					<!ELEMENT author (#PCDATA)>
+					<!ELEMENT year (#PCDATA)>
+					
+	<!ELEMENT regions (region+ )>
+		<!ELEMENT region ( continent, climate, timezone+ ) >
+		  <!ATTLIST region con_id ID #REQUIRED >
+			<!ELEMENT continent ( #PCDATA ) >
+			<!ELEMENT climate ( #PCDATA ) >
+			<!ELEMENT timezone ( #PCDATA ) >
+			
+	<!ELEMENT nations (nation+ ) >
+		<!ELEMENT nation (demonym , population, language+, religion+) >
+		<!ATTLIST nation nat_id ID #REQUIRED >
+		<!ELEMENT demonym  ( #PCDATA ) >
+		<!ELEMENT population ( #PCDATA ) >
+		<!ELEMENT language ( #PCDATA ) >
+		<!ELEMENT religion ( #PCDATA ) >
+			
+ 	<!ELEMENT government_types (government_type+ ) >
+		<!ELEMENT government_type (type) >
+            <!ATTLIST government_type gov_id ID #REQUIRED >
+			<!ELEMENT type ( #PCDATA ) >
+			
+	<!ELEMENT organizations (organization+ ) >
+		<!ELEMENT organization (org_name,year_establishment?) >
+		  <!ATTLIST organization org_id ID #REQUIRED >
+		  <!ELEMENT org_name ( #PCDATA ) >
+		  <!ELEMENT year_establishment ( #PCDATA ) >
+			
+			

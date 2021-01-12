@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cia SYSTEM "cia.dtd">
+<cia>
+	<countries>
+		<country id="BG1" region ="EU" nation = "BG" government_type = "GT3" organization ="ES OON NATO">
+			<name>България</name>
+			<image_flag>bulgaria_flag.png</image_flag> 
+			<image_blazon>bulgaria_blazon.png</image_blazon> 
+			<capital>София</capital>
+			<anthem>
+				<song> 
+					<title>Мила Родино</title>
+					<author>Цветан Радославов</author>
+					<year>1964</year>
+				</song>
+			</anthem>
+		</country>
+		
+		<country id="FR1" region ="WEU" nation = "FR" government_type = "GT4" organization ="ES OON NATO">
+			<name>франция</name>
+			<image_flag>france_flag.png</image_flag> 
+			<image_blazon>france_blazon.png</image_blazon> 
+			<capital>Париж</capital>
+			<anthem>
+			<song>
+				<title>Марсилезата</title>
+					<author>Роже дьо Лил</author>
+					<year>1795</year>
+			</song>
+				
+			</anthem>
+		</country>
+		
+		<country id="IT1" region ="SEU" nation = "IT" government_type = "GT3" organization ="ES OON NATO SHEN">
+			<name>Италия</name>
+			<image_flag>italia_flag.png</image_flag> 
+			<image_blazon>italia_blazon.png</image_blazon> 
+			<capital>Рим</capital>
+			<anthem>
+			<song>
+				<title>Химнът на Мамели</title>
+				<author>Гофредо Мамели</author>
+				<year>25</year>
+			</song>
+				
+			</anthem>
+		</country>
+		
+		<country id="DE1" region ="CEU" nation = "DE" government_type = "GT3" organization ="ES OON NATO">
+			<name>Германия</name>
+			<image_flag>german_flag.png</image_flag> 
+			<image_blazon>german_blazon.png</image_blazon> 
+			<capital>Берлин</capital>
+			<anthem>
+			<song>
+				<title>Песента на немците</title>
+				<author>Хофман фон Фалерслебен,</author>
+				<year>1945</year>
+			</song>
+				
+			</anthem>
+		</country>
+		
+		<country id="DK1" region ="NEU" nation = "DK" government_type = "GT7" organization ="ES OON NATO">
+			<name>Дания</name>
+			<image_flag>den_flag.png</image_flag> 
+			<image_blazon>den_blazon.png</image_blazon> 
+			<capital>Копенхаген</capital>
+			<anthem>
+				<song>
+					<title>Има една прекрасна страна</title>
+					<author>Адам Готлоб Йоленшлегер</author>
+					<year>1835</year>
+				</song>
+				
+			</anthem>
+		</country>
+		
+		<country id="АТ1" region ="CEU" nation = "AT" government_type = "GT4" organization ="ES OON NATO">
+			<name>Австрия</name>
+			<image_flag>austria_flag.png</image_flag> 
+			<image_blazon>austria_blazon.png</image_blazon> 
+			<capital>Виена</capital>
+			<anthem>
+				<song>
+					<title>Земя на планини, земя на реки</title>
+					<author>Паула фон Прерадович</author>
+					<year>1835</year>
+				</song>
+				
+			</anthem>
+		</country>
+		
+		<country id="RS1" region ="AS" nation = "RS" government_type = "GT4" organization ="OON">
+			<name>Русия</name>
+			<image_flag>russia_flag.png</image_flag> 
+			<image_blazon>russia_blazon.png</image_blazon> 
+			<capital>Москва</capital>
+			<anthem>
+				<song>	<title>Госуда́рственный гимн Росси́йской Федера́ции</title>
+					<author>Сергей Михалков</author>
+					<year>2</year>
+				</song>
+				
+			</anthem>
+		</country>
+		<country id="JP1" region ="EAS" nation = "JP" government_type = "GT7" organization ="OON">
+			<name>Япония</name>
+			<image_flag>japan_flag.png</image_flag> 
+			<image_blazon>japan_blazon.png</image_blazon> 
+			<capital>Токио</capital>
+			<anthem>
+				<song>
+					<title>Кимигайо</title>
+					<author>Франц Екерт</author>
+					<year>188</year>
+				</song>
+			</anthem>
+		</country>
+		
+		<country id="ID1" region ="SAS" nation = "ID" government_type = "GT2" organization ="OON">
+			<name>Индонезия</name>
+			<image_flag>indonesia_flag.png</image_flag> 
+			<image_blazon>indonesia_blazon.png</image_blazon> 
+			<capital>Джакарта</capital>
+			<anthem>
+				<song>
+					<title>Раят Индонезия</title>
+					<author>Франц Екерт</author>
+					<year>188</year>
+				</song>
+			</anthem>
+		</country>
+		
+		<country id="IN1" region ="SAS" nation = "IN" government_type = "GT3" organization ="OON BRICS STO">
+			<name>Индия</name>
+			<image_flag>india_flag.png</image_flag> 
+			<image_blazon>india_blazon.png</image_blazon> 
+			<capital>Ню Делхи</capital>
+			<anthem>
+				<song>
+					<title>Ти си на началника на съзнанието на всички хора</title>
+					<author>Рабиндранат Тагор</author>
+					<year>195</year>
+				</song>
+			</anthem>
+		</country>
+		
+		<country id="IQ1" region ="WAS" nation = "IQ" government_type = "GT3" organization ="OON">
+			<name>Ирак</name>
+			<image_flag>iraq_flag.png</image_flag> 
+			<image_blazon>iraq_blazon.png</image_blazon> 
+			<capital>Багдад</capital>
+			<anthem>
+				<song>
+					<title>Моята родина</title>
+					<author>Ибрахим Тукан</author>
+					<year>24</year>
+				</song>
+			</anthem>
+		</country>
+		
+		<country id="VN1" region ="SAS" nation = "VN" government_type = "GT1" organization ="OON">
+			<name>Виетнам</name>
+			<image_flag>vietnam_flag.png</image_flag> 
+			<image_blazon>vietnam_blazon.png</image_blazon> 
+			<capital>Ханой</capital>
+			<anthem>
+				<song>
+					<title>Моята родина</title>
+					<author>Ван Као</author>
+					<year>1976</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="RUA1" region ="AF" nation = "SA" government_type = "GT3" organization ="OON AU">
+			<name>Република Южна Африка</name>
+			<image_flag>rua_flag.png</image_flag> 
+			<image_blazon>rua_blazon.png</image_blazon> 
+			<capital>Кейптаун</capital>
+			<anthem>
+				<song>
+					<title>Национален химн на Южна Африка</title>
+					<author>Енох Сонгонга</author>
+					<year>1997</year>
+				</song>
+			
+			</anthem>
+		</country>
+		<country id="TZ1" region ="NAF" nation = "TZ" government_type = "GT4" organization ="OON">
+			<name>Египет</name>
+			<image_flag>egypt_flag.png</image_flag> 
+			<image_blazon>egypt_blazon.png</image_blazon> 
+			<capital>Кайро</capital>
+			<anthem>
+				<song>
+					<title>Родино моя, родино моя, родино моя</title>
+					<author>Мохамед Юнис Ал-Кади</author>
+					<year>1979</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="EG1" region ="EAF" nation = "EG" government_type = "GT2" organization ="OON AU">
+			<name>Танзания</name>
+			<image_flag>tanzania_flag.png</image_flag> 
+			<image_blazon>tanzania_blazon.png</image_blazon> 
+			<capital>Додома</capital>
+			<anthem>
+				<song>
+					<title>Бог да благослови Африка</title>
+					<author>Мохамед Юнис Ал-Кади</author>
+					<year>1979</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="SD1" region ="EAF" nation = "SD" government_type = "GT2" organization ="OON AU">
+			<name>Судан</name>
+			<image_flag>sudan_flag.png</image_flag> 
+			<image_blazon>sudan_blazon.png</image_blazon> 
+			<capital>Хартум</capital>
+			<anthem>
+				<song>
+					<title>Ние сме войници на Господ и на нашата земя</title>
+					<author>Ахмад Мухамад Салих</author>
+					<year>1956</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="DZ1" region ="EAF" nation = "DZ" government_type = "GT7" organization ="OON AU">
+			<name>Алжир</name>
+			<image_flag>aljir_flag.png</image_flag> 
+			<image_blazon>aljir_blazon.png</image_blazon> 
+			<capital>Алжир</capital>
+			<anthem>
+				<song>
+					<title>От хората за хората</title>
+					<author>	Махмуд ел Шериф</author>
+					<year>1969</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="LY1" region ="EAF" nation = "LY" government_type = "GT7" organization ="OON AU">
+			<name>Либия</name>
+			<image_flag>libia_flag.png</image_flag> 
+			<image_blazon>libia_blazon.png</image_blazon> 
+			<capital>Триполи</capital>
+			<anthem>
+				<song>
+					<title>Либия, Либия, Либия</title>
+					<author>	Махмуд ел Шериф</author>
+					<year>1969</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="BRA1" region ="SAM" nation = "BRA" government_type = "GT2" organization ="OON BRICS CPLP">
+			<name>Бразилия</name>
+			<image_flag>brazil_flag.png</image_flag> 
+			<image_blazon>brazil_blazon.png</image_blazon> 
+			<capital>Бразилия</capital>
+			<anthem>
+				<song>
+					<title>Национален химн на Бразилия</title>
+					<author>Осорио Дуке Eстрада</author>
+					<year>1831</year>
+				</song>
+			
+			</anthem>
+		</country>
+		<country id="АR1" region ="SSA" nation = "AR" government_type = "GT2" organization ="OON NAFTA NATO STO">
+			<name>Аржентина</name>
+			<image_flag>argentina_flag.png</image_flag> 
+			<image_blazon>argentina_blazon.png</image_blazon> 
+			<capital>Буенос Айрес</capital>
+			<anthem>
+				<song>
+					<title>Химн на Аржентина</title>
+					<author>Блас Парера</author>
+					<year>1813</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="PE1" region ="WSA" nation = "PE" government_type = "GT2" organization ="OON">
+			<name>Перу</name>
+			<image_flag>peru_flag.png</image_flag> 
+			<image_blazon>peru_blazon.png</image_blazon> 
+			<capital>Лима</capital>
+			<anthem>
+				<song>
+					<title>Химн на Перу</title>
+					<author>Блас Парера</author>
+					<year>1813</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="EC1" region ="WSA" nation = "EC" government_type = "GT2" organization ="OON">
+			<name>Еквадор</name>
+			<image_flag>eq_flag.png</image_flag> 
+			<image_blazon>eq_blazon.png</image_blazon> 
+			<capital>Кито</capital>
+			<anthem>
+				<song>
+					<title>Здравей, О, Родина</title>
+					<author>Блас Парера</author>
+					<year>1813</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="CL1" region ="WSA" nation = "CL" government_type = "GT2" organization ="OON">
+			<name>Чили</name>
+			<image_flag>chilli_flag.png</image_flag> 
+			<image_blazon>chilli_blazon.png</image_blazon> 
+			<capital>Сантяго</capital>
+			<anthem>
+				<song>
+					<title>Национален химн на Чили</title>
+					<author>Блас Парера</author>
+					<year>1813</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="UR1" region ="ESA" nation = "UR" government_type = "GT2" organization ="OON">
+			<name>Уругвай</name>
+			<image_flag>uru_flag.png</image_flag> 
+			<image_blazon>uru_blazon.png</image_blazon> 
+			<capital>Монтевидео</capital>
+			<anthem>
+				<song>
+					<title>Национален химн на Уругвай</title>
+					<author>Блас Парера</author>
+					<year>1813</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="CAN1" region ="NAM" nation = "CAN" government_type = "GT7" organization ="OON NATO NAFTA">
+			<name>Канада</name>
+			<image_flag>canada_flag.png</image_flag> 
+			<image_blazon>canada_blazon.png</image_blazon> 
+			<capital>Отава</capital>
+			<anthem>
+				<song>
+					<title>О,Канада!</title>
+					<author>Адолф-Базил Руте</author>
+					<year>198</year>
+				</song>
+			
+			</anthem>
+		</country>
+		<country id="US1" region ="CNA" nation = "JP" government_type = "GT2" organization ="OON NAFTA NATO">
+			<name>Съединени Американски Щати</name>
+			<image_flag>usa_flag.png</image_flag> 
+			<image_blazon>usa_blazon.png</image_blazon> 
+			<capital>Вашингтон</capital>
+			<anthem>
+				<song>
+					<title>Знаме, обсипано със звезди</title>
+					<author>Знаме, обсипано със звезди</author>
+					<year>1931</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="MX1" region ="SNA" nation = "MX" government_type = "GT2" organization ="OON NAFTA">
+			<name>Мексико</name>
+			<image_flag>mexico_flag.png</image_flag> 
+			<image_blazon>mexico_blazon.png</image_blazon> 
+			<capital>Мексико</capital>
+			<anthem>
+				<song>
+					<title>Национален химн на Мексико</title>
+					<author>Знаме, обсипано със звезди</author>
+					<year>1931</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="AUS1" region ="AUS" nation = "AUST" government_type = "GT9" organization ="OON BU">
+			<name>Австралийски съюз</name>
+			<image_flag>australia_flag.png</image_flag> 
+			<image_blazon>australia_blazon.png</image_blazon> 
+			<capital>Канбера</capital>
+			<anthem>
+				<song>
+					<title>Висш панаир на Австралия</title>
+					<author>Питър Макормик</author>
+					<year>1984</year>
+				</song>
+			
+			</anthem>
+		</country>
+	</countries>
+	
+	<regions>
+		<region con_id="EU">
+			<continent>Европа</continent>
+			<climate>Умерено континентален</climate>
+			<timezone>UTC-1</timezone>
+			<timezone>UTC</timezone>
+			<timezone>UTC+1</timezone>
+			<timezone>UTC+2</timezone>
+			<timezone>UTC+3</timezone>
+			<timezone>UTC+4</timezone>
+			<timezone>UTC+5</timezone>
+		</region>
+		<region con_id="WEU">
+			<continent>Западна Европа</continent>
+			<climate>Умерено континентален</climate>
+			<timezone>UTC+1</timezone>
+		</region>
+		<region con_id="SEU">
+			<continent>Южна Европа</continent>
+			<climate>Субтропичен</climate>
+			<timezone>UTC+1</timezone>
+		</region>
+		<region con_id="CEU">
+			<continent>Централна Европа</continent>
+			<climate>Умерено континентален</climate>
+			<timezone>UTC+1</timezone>
+		</region>
+		<region con_id="NEU">
+			<continent>Северна Европа</continent>
+			<climate>Умерено континентален</climate>
+			<timezone>UTC+1</timezone>
+		</region>
+		<region con_id="AS">
+			<continent>Северна Азия</continent>
+			<climate>Субполярен</climate>
+			<timezone>UTC+1</timezone>
+			<timezone>UTC+2</timezone>
+			<timezone>UTC+3</timezone>
+			<timezone>UTC+4</timezone>
+			<timezone>UTC+5</timezone>
+			<timezone>UTC+6</timezone>
+			<timezone>UTC+7</timezone>
+			<timezone>UTC+8</timezone>
+			<timezone>UTC+9</timezone>
+			<timezone>UTC+1</timezone>
+			<timezone>UTC+11</timezone>
+			<timezone>UTC+12</timezone>
+		</region>
+		<region con_id="EAS">
+			<continent>Източна Азия</continent>
+			<climate>Умерено континентален</climate>
+			<timezone>UTC+9</timezone>
+		</region>
+		
+		<region con_id="SAS">
+			<continent>Южна Азия</continent>
+			<climate>Тропичен</climate>
+			<timezone>UTC+7</timezone>
+		</region>
+		
+		<region con_id="WAS">
+			<continent>Западна Азия</continent>
+			<climate>Тропичен</climate>
+			<timezone>UTC+3</timezone>
+		</region>
+		<region con_id="AF">
+			<continent>Африка</continent>
+			<climate>Екваториален</climate>
+			<timezone>UTC-1</timezone>
+			<timezone>UTC</timezone>
+			<timezone>UTC+1</timezone>
+			<timezone>UTC+2</timezone>
+			<timezone>UTC+3</timezone>
+			<timezone>UTC+4</timezone>
+		</region>
+		<region con_id="NAF">
+			<continent>Северна Африка</continent>
+			<climate>Екваториален</climate>
+			<timezone>UTC+2</timezone>
+		</region>
+		<region con_id="EAF">
+			<continent>Източна Африка</continent>
+			<climate>Тропичен</climate>
+			<timezone>UTC+3</timezone>
+		</region>
+		<region con_id="SAM">
+			<continent>Южна Америка</continent>
+			<climate>Екваториален</climate>
+			<timezone>UTC-1</timezone>
+			<timezone>UTC-2</timezone>
+			<timezone>UTC-3</timezone>
+			<timezone>UTC-4</timezone>
+			<timezone>UTC-5</timezone>
+		</region>
+			<region con_id="SSA">
+			<continent>Южна Южна Америка</continent>
+			<climate>Умерено континентален</climate>
+			<timezone>UTC-9</timezone>
+		</region>
+		<region con_id="WSA">
+			<continent>Западна Южна Америка</continent>
+			<climate>Тропичен</climate>
+			<timezone>UTC-5</timezone>
+		</region>
+		<region con_id="ESA">
+			<continent>Източна Южна Америка</continent>
+			<climate>Тропичен</climate>
+			<timezone>UTC-3</timezone>
+		</region>	
+		<region con_id="CNA">
+			<continent>Централна Северна Америка</continent>
+			<climate>Умерено континентален</climate>
+			<timezone>UTC-9</timezone>
+		</region>
+		
+		<region con_id="SNA">
+			<continent>Южна Северна Америка</continent>
+			<climate>Умерено континентален</climate>
+			<timezone>UTC-9</timezone>
+		</region>
+		<region con_id="NAM">
+			<continent>Северна Америка</continent>
+			<climate>Умерено континентален</climate>
+			<timezone>UTC-1</timezone>
+			<timezone>UTC-9</timezone>
+			<timezone>UTC-8</timezone>
+			<timezone>UTC-7</timezone>
+			<timezone>UTC-6</timezone>
+			<timezone>UTC-5</timezone>
+			<timezone>UTC-3</timezone>
+			<timezone>UTC-2</timezone>
+			<timezone>UTC-1</timezone>
+			<timezone>UTC</timezone>
+		</region>
+		
+		<region con_id="AUS">
+			<continent>Австралия</continent>
+			<climate>Субтропичен</climate>
+			<timezone>UTC+8</timezone>
+			<timezone>UTC+9.5</timezone>
+			<timezone>UTC+1</timezone>
+		</region>
+	</regions>
+	
+	<nations>
+		<nation nat_id="BG">
+			<demonym>Българи</demonym>
+			<population>6 999 98</population>
+			<language>Българския</language>
+			<religion>Православно християнство</religion>
+		</nation>
+		<nation nat_id="DK">
+			<demonym>Датчани</demonym>
+			<population>5 789 957</population>
+			<language>датски</language>
+			<religion>лутеранство</religion>
+		</nation>
+		<nation nat_id="FR">
+			<demonym>Французи</demonym>
+			<population>67 348 </population>
+			<language>Френски</language>
+			<religion>Католицизъм</religion>
+		</nation>
+		<nation nat_id="IT">
+			<demonym>Италианци</demonym>
+			<population>6 359 546</population>
+			<language>Италиански</language>
+			<religion>Християнство</religion>
+		</nation>
+		<nation nat_id="DE">
+			<demonym>Германци</demonym>
+			<population>83 19 2</population>
+			<language>Немски </language>
+			<religion>Християнство</religion>
+		</nation>
+		<nation nat_id="AT">
+			<demonym>Австриици</demonym>
+			<population>8 7 471</population>
+			<language>Немски </language>
+			<religion>Римокатолицизъм</religion>
+		</nation>
+		<nation nat_id="RS">
+			<demonym>Руснаци</demonym>
+			<population>146 793 744</population>
+			<language>Руски</language>
+			<religion>Православно християнство</religion>
+		</nation>
+		<nation nat_id="JP">
+			<demonym>Японци</demonym>
+			<population>127 94 745</population>
+			<language>японски</language>
+			<religion>шинтоизъм</religion>
+			<religion>будъзъм</religion>
+		</nation>
+		
+		<nation nat_id="ID">
+		
+			<demonym>Индонезиици</demonym>
+			<population>237 641 326</population>
+			<language>индонезииски</language>
+			<religion>ислям</religion>
+			<religion>християнство</religion>
+		</nation>
+		
+		<nation nat_id="IN">
+			<demonym>Индиици</demonym>
+			<population>1 21 854 977</population>
+			<language>хинди</language>
+			<religion>индуизъм</religion>
+		</nation>
+		
+		<nation nat_id="IQ">
+			<demonym>Иракчани</demonym>
+			<population>37 22 572</population>
+			<language>арабски</language>
+			<language>кюрдски</language>
+			<religion>ислям</religion>
+		</nation>
+
+		<nation nat_id="VN">
+			<demonym>Виетнамци</demonym>
+			<population>96 28 984</population>
+			<language>виетнамски</language>
+			<religion>християнство</religion>
+		</nation>
+		<nation nat_id="MX">
+			<demonym>Мексиканци</demonym>
+			<population>127 094 745</population>
+			<language>испански</language>
+			<religion>католицизъм</religion>
+		</nation>
+		
+		<nation nat_id="US">
+			
+			<demonym>Американци</demonym>
+			<population>308 745 538</population>
+			<language>английски</language>
+			<religion>християнство</religion>
+		</nation>
+		<nation nat_id="SA">
+			<demonym>Южноафриканци</demonym>
+			<population>51 77 56</population>
+			<language>африканс</language>
+			<language>английски</language>
+			<language>ндебеле</language>
+			<language>северен сото</language>
+			<language>свази</language>
+			<language>цонга</language>
+			<language>тсвана</language>
+			<language>венда</language>
+			<language>кхоса</language>
+			<language>зулуски</language>
+			<religion>Християнство</religion>
+			<religion>Нерелигиозни</religion>
+		</nation>
+		<nation nat_id="EG">
+			<demonym>Египтяни</demonym>
+			<population>94 798 827</population>
+			<language>арабски</language>
+			<religion>ислям</religion>
+		</nation>	
+		<nation nat_id="TZ">
+			<demonym>Танзаниици</demonym>
+			<population>55 572 21</population>
+			<language>суахили</language>
+			<religion>ислям</religion>
+			<religion>християнство</religion>
+		</nation>
+		<nation nat_id="SD">
+			<demonym>Суданци</demonym>
+			<population>39 578 828	</population>
+			<language>арабски</language>
+			<language>английски</language>
+			<religion>ислям</religion>
+			<religion>християнство</religion>
+		</nation>
+		<nation nat_id="LY">
+			<demonym>Либиици</demonym>
+			<population>5 67 688</population>
+			<language>арабски</language>
+			<religion>ислям</religion>
+		</nation>
+		<nation nat_id="DZ">
+			<demonym>Алжирец</demonym>
+			<population>42 2 </population>
+			<language>арабски</language>
+			<religion>ислям</religion>
+		</nation>
+		<nation nat_id="BRA">
+			<demonym>Бразилци</demonym>
+			<population>212 27 </population>
+			<language>Португалски</language>
+			<religion>Католицизъм</religion>
+			<religion>Протестанство</religion>
+		</nation>
+		<nation nat_id="AR">
+			<demonym>Аржентинци</demonym>
+			<population>4 117 96</population>
+			<language>испански</language>
+			<religion>римокатолицизъм</religion>
+		</nation>	
+		<nation nat_id="PE">
+		
+			<demonym>Перуканци</demonym>
+			<population>32 162 184</population>
+			<language>испански</language>
+			<religion>римокатолицизъм</religion>
+		</nation>		
+		<nation nat_id="EC">
+			<demonym>Еквадорци</demonym>
+			<population>16 144 </population>
+			<language>испански</language>
+			<religion>римокатолицизъм</religion>
+		</nation>		
+		<nation nat_id="CL">
+			<demonym>Чилиици</demonym>
+			<population>17 574 3</population>
+			<language>испански</language>
+			<religion>християнство</religion>
+		</nation>
+		<nation nat_id="UR">
+			<demonym>Уругвайци</demonym>
+			<population>17 574 3</population>
+			<language>испански</language>
+			<religion>християнство</religion>
+		</nation>
+		<nation nat_id="CAN">
+			<demonym>Канадци</demonym>
+			<population>37 797 496</population>
+			<language>английски</language>
+			<language>френски</language>
+			<religion>Католицизъм</religion>
+			<religion>Протестанство</religion>
+		</nation>
+		
+		<nation nat_id="AUST">
+			<demonym>Австралийци</demonym>
+			<population>23 41 892</population>
+			<language>английски</language>
+			<religion>Християнство</religion>
+		</nation>
+	</nations>
+	
+	<government_types>
+		<government_type gov_id = "GT1">
+			<type>Република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT2">
+			<type>Президентска република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT3">
+			<type>Парламентарна република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT4">
+			<type>Полупрезидентска република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT5">
+			<type>Монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT6">
+			<type>Абсолютна монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT7">
+			<type>Конституционна монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT8">
+			<type>Дуалистична монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT9">
+			<type>Парламентарна монархия</type>
+		</government_type>
+	</government_types>
+	
+	
+<organizations>
+		<organization org_id="NATO">
+			<org_name>НАТО</org_name>
+			<year_establishment>1949</year_establishment>
+		</organization>
+		
+		<organization org_id="ES">
+			<org_name>Европейски съюз</org_name>
+			<year_establishment>1958</year_establishment>
+		</organization>
+		
+		<organization org_id="NAFTA">
+			<org_name>Северноамериканското споразумение за свободна търговия</org_name>
+			<year_establishment>1994</year_establishment>
+		</organization>
+		
+		<organization org_id="BU">
+			<org_name>Британската общност</org_name>
+			<year_establishment></year_establishment>
+		</organization>
+		
+		<organization org_id="AU">
+			<org_name>Африкански съюз</org_name>
+			<year_establishment>1922</year_establishment>
+		</organization>
+		
+		<organization org_id="OON">
+			<org_name>Организацията на обединените нации</org_name>
+			<year_establishment>1945</year_establishment>
+		</organization>
+		
+		<organization org_id="BRICS">
+			<org_name>БРИКС</org_name>
+			<year_establishment>1929</year_establishment>
+		</organization>
+		
+		<organization org_id="CPLP">
+			<org_name>Организация на португалско говорящите държави</org_name>
+			<year_establishment>1996</year_establishment>
+		</organization>
+		<organization org_id="SHEN">
+			<org_name>Шенгенско пространство</org_name>
+			<year_establishment>1985</year_establishment>
+		</organization>
+		<organization org_id="STO">
+			<org_name>Световна търговска организация</org_name>
+			<year_establishment>1995</year_establishment>
+		</organization>
+</organizations>
+	
+</cia>

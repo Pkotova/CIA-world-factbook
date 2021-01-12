@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+   <country>
+      <name>България</name>
+      <image_flag>bulgaria_flag.png</image_flag>
+      <image_blazon>bulgaria_blazon.png</image_blazon>
+      <capital>София</capital>
+      <anthem>
+         <title>Мила Родино</title>
+         <author>Цветан Радославов</author>
+         <year>1964</year>
+      </anthem>
+   </country>
+   <country>
+      <name>франция</name>
+      <image_flag>france_flag.png</image_flag>
+      <image_blazon>france_blazon.png</image_blazon>
+      <capital>Париж</capital>
+      <anthem>
+         <title>Марсилезата</title>
+         <author>Роже дьо Лил</author>
+         <year>1795</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Италия</name>
+      <image_flag>italia_flag.png</image_flag>
+      <image_blazon>italia_blazon.png</image_blazon>
+      <capital>Рим</capital>
+      <anthem>
+         <title>Химнът на Мамели</title>
+         <author>Гофредо Мамели</author>
+         <year>25</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Германия</name>
+      <image_flag>german_flag.png</image_flag>
+      <image_blazon>german_blazon.png</image_blazon>
+      <capital>Берлин</capital>
+      <anthem>
+         <title>Песента на немците</title>
+         <author>Хофман фон Фалерслебен,</author>
+         <year>1945</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Дания</name>
+      <image_flag>den_flag.png</image_flag>
+      <image_blazon>den_blazon.png</image_blazon>
+      <capital>Копенхаген</capital>
+      <anthem>
+         <title>Има една прекрасна страна</title>
+         <author>Адам Готлоб Йоленшлегер</author>
+         <year>1835</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Австрия</name>
+      <image_flag>austria_flag.png</image_flag>
+      <image_blazon>austria_blazon.png</image_blazon>
+      <capital>Виена</capital>
+      <anthem>
+         <title>Земя на планини, земя на реки</title>
+         <author>Паула фон Прерадович</author>
+         <year>1835</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Русия</name>
+      <image_flag>russia_flag.png</image_flag>
+      <image_blazon>russia_blazon.png</image_blazon>
+      <capital>Москва</capital>
+      <anthem>
+         <title>Госуда́рственный гимн Росси́йской Федера́ции</title>
+         <author>Сергей Михалков</author>
+         <year>2</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Япония</name>
+      <image_flag>japan_flag.png</image_flag>
+      <image_blazon>japan_blazon.png</image_blazon>
+      <capital>Токио</capital>
+      <anthem>
+         <title>Кимигайо</title>
+         <author>Франц Екерт</author>
+         <year>188</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Индонезия</name>
+      <image_flag>indonesia_flag.png</image_flag>
+      <image_blazon>indonesia_blazon.png</image_blazon>
+      <capital>Джакарта</capital>
+      <anthem>
+         <title>Раят Индонезия</title>
+         <author>Франц Екерт</author>
+         <year>188</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Индия</name>
+      <image_flag>india_flag.png</image_flag>
+      <image_blazon>india_blazon.png</image_blazon>
+      <capital>Ню Делхи</capital>
+      <anthem>
+         <title>Ти си на началника на съзнанието на всички хора</title>
+         <author>Рабиндранат Тагор</author>
+         <year>195</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Ирак</name>
+      <image_flag>iraq_flag.png</image_flag>
+      <image_blazon>iraq_blazon.png</image_blazon>
+      <capital>Багдад</capital>
+      <anthem>
+         <title>Моята родина</title>
+         <author>Ибрахим Тукан</author>
+         <year>24</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Виетнам</name>
+      <image_flag>vietnam_flag.png</image_flag>
+      <image_blazon>vietnam_blazon.png</image_blazon>
+      <capital>Ханой</capital>
+      <anthem>
+         <title>Моята родина</title>
+         <author>Ван Као</author>
+         <year>1976</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Република Южна Африка</name>
+      <image_flag>rua_flag.png</image_flag>
+      <image_blazon>rua_blazon.png</image_blazon>
+      <capital>Кейптаун</capital>
+      <anthem>
+         <title>Национален химн на Южна Африка</title>
+         <author>Енох Сонгонга</author>
+         <year>1997</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Египет</name>
+      <image_flag>egypt_flag.png</image_flag>
+      <image_blazon>egypt_blazon.png</image_blazon>
+      <capital>Кайро</capital>
+      <anthem>
+         <title>Родино моя, родино моя, родино моя</title>
+         <author>Мохамед Юнис Ал-Кади</author>
+         <year>1979</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Танзания</name>
+      <image_flag>tanzania_flag.png</image_flag>
+      <image_blazon>tanzania_blazon.png</image_blazon>
+      <capital>Додома</capital>
+      <anthem>
+         <title>Бог да благослови Африка</title>
+         <author>Мохамед Юнис Ал-Кади</author>
+         <year>1979</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Судан</name>
+      <image_flag>sudan_flag.png</image_flag>
+      <image_blazon>sudan_blazon.png</image_blazon>
+      <capital>Хартум</capital>
+      <anthem>
+         <title>Ние сме войници на Господ и на нашата земя</title>
+         <author>Ахмад Мухамад Салих</author>
+         <year>1956</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Алжир</name>
+      <image_flag>aljir_flag.png</image_flag>
+      <image_blazon>aljir_blazon.png</image_blazon>
+      <capital>Алжир</capital>
+      <anthem>
+         <title>От хората за хората</title>
+         <author>	Махмуд ел Шериф</author>
+         <year>1969</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Либия</name>
+      <image_flag>libia_flag.png</image_flag>
+      <image_blazon>libia_blazon.png</image_blazon>
+      <capital>Триполи</capital>
+      <anthem>
+         <title>Либия, Либия, Либия</title>
+         <author>	Махмуд ел Шериф</author>
+         <year>1969</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Бразилия</name>
+      <image_flag>brazil_flag.png</image_flag>
+      <image_blazon>brazil_blazon.png</image_blazon>
+      <capital>Бразилия</capital>
+      <anthem>
+         <title>Национален химн на Бразилия</title>
+         <author>Осорио Дуке Eстрада</author>
+         <year>1831</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Аржентина</name>
+      <image_flag>argentina_flag.png</image_flag>
+      <image_blazon>argentina_blazon.png</image_blazon>
+      <capital>Буенос Айрес</capital>
+      <anthem>
+         <title>Химн на Аржентина</title>
+         <author>Блас Парера</author>
+         <year>1813</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Перу</name>
+      <image_flag>peru_flag.png</image_flag>
+      <image_blazon>peru_blazon.png</image_blazon>
+      <capital>Лима</capital>
+      <anthem>
+         <title>Химн на Перу</title>
+         <author>Блас Парера</author>
+         <year>1813</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Еквадор</name>
+      <image_flag>eq_flag.png</image_flag>
+      <image_blazon>eq_blazon.png</image_blazon>
+      <capital>Кито</capital>
+      <anthem>
+         <title>Здравей, О, Родина</title>
+         <author>Блас Парера</author>
+         <year>1813</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Чили</name>
+      <image_flag>chilli_flag.png</image_flag>
+      <image_blazon>chilli_blazon.png</image_blazon>
+      <capital>Сантяго</capital>
+      <anthem>
+         <title>Национален химн на Чили</title>
+         <author>Блас Парера</author>
+         <year>1813</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Уругвай</name>
+      <image_flag>uru_flag.png</image_flag>
+      <image_blazon>uru_blazon.png</image_blazon>
+      <capital>Монтевидео</capital>
+      <anthem>
+         <title>Национален химн на Уругвай</title>
+         <author>Блас Парера</author>
+         <year>1813</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Канада</name>
+      <image_flag>canada_flag.png</image_flag>
+      <image_blazon>canada_blazon.png</image_blazon>
+      <capital>Отава</capital>
+      <anthem>
+         <title>О,Канада!</title>
+         <author>Адолф-Базил Руте</author>
+         <year>198</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Съединени Американски Щати</name>
+      <image_flag>usa_flag.png</image_flag>
+      <image_blazon>usa_blazon.png</image_blazon>
+      <capital>Вашингтон</capital>
+      <anthem>
+         <title>Знаме, обсипано със звезди</title>
+         <author>Знаме, обсипано със звезди</author>
+         <year>1931</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Мексико</name>
+      <image_flag>mexico_flag.png</image_flag>
+      <image_blazon>mexico_blazon.png</image_blazon>
+      <capital>Мексико</capital>
+      <anthem>
+         <title>Национален химн на Мексико</title>
+         <author>Знаме, обсипано със звезди</author>
+         <year>1931</year>
+      </anthem>
+   </country>
+   <country>
+      <name>Австралийски съюз</name>
+      <image_flag>australia_flag.png</image_flag>
+      <image_blazon>australia_blazon.png</image_blazon>
+      <capital>Канбера</capital>
+      <anthem>
+         <title>Висш панаир на Австралия</title>
+         <author>Питър Макормик</author>
+         <year>1984</year>
+      </anthem>
+   </country>
+</countries>

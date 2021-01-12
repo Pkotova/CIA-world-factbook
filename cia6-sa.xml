@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cia SYSTEM "cia.dtd">
+<cia>
+	<countries>
+		<country id="001АR00" region ="SSA" nation = "AR" government_type = "GT02" organisation ="OON NAFTA NATO STO">
+			<name>Аржентина</name>
+			<image_flag>argentina_flag.png</image_flag> 
+			<image_blazon>argentina_blazon.png</image_blazon> 
+			<capital>Буенос Айрес</capital>
+			<anthem>
+				<song>
+					<title>Химн на Аржентина</title>
+					<author>Блас Парера</author>
+					<year>1813</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="001PE00" region ="WSA" nation = "PE" government_type = "GT02" organisation ="OON">
+			<name>Перу</name>
+			<image_flag>peru_flag.png</image_flag> 
+			<image_blazon>peru_blazon.png</image_blazon> 
+			<capital>Лима</capital>
+			<anthem>
+				<song>
+					<title>Химн на Перу</title>
+					<author>Блас Парера</author>
+					<year>1813</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="001EC00" region ="WSA" nation = "EC" government_type = "GT02" organisation ="OON">
+			<name>Еквадор</name>
+			<image_flag>eq_flag.png</image_flag> 
+			<image_blazon>eq_blazon.png</image_blazon> 
+			<capital>Кито</capital>
+			<anthem>
+				<song>
+					<title>Здравей, О, Родина</title>
+					<author>Блас Парера</author>
+					<year>1813</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="001CL00" region ="WSA" nation = "CL" government_type = "GT02" organisation ="OON">
+			<name>Чили</name>
+			<image_flag>chilli_flag.png</image_flag> 
+			<image_blazon>chilli_blazon.png</image_blazon> 
+			<capital>Сантяго</capital>
+			<anthem>
+				<song>
+					<title>Национален химн на Чили</title>
+					<author>Блас Парера</author>
+					<year>1813</year>
+				</song>
+			</anthem>
+		</country>
+		<country id="001UR00" region ="ESA" nation = "UR" government_type = "GT02" organisation ="OON">
+			<name>Уругвай</name>
+			<image_flag>uru_flag.png</image_flag> 
+			<image_blazon>uru_blazon.png</image_blazon> 
+			<capital>Монтевидео</capital>
+			<anthem>
+				<song>
+					<title>Национален химн на Уругвай</title>
+					<author>Блас Парера</author>
+					<year>1813</year>
+				</song>
+			</anthem>
+		</country>
+	</countries>	
+	
+	<regions>
+		<region con_id="SSA">
+			<continent>Южна Южна Америка</continent>
+			<climate>Умерено континентален</climate>
+			<timezone>UTC-9</timezone>
+		</region>
+		<region con_id="WSA">
+			<continent>Западна Южна Америка</continent>
+			<climate>Тропичен</climate>
+			<timezone>UTC-5</timezone>
+		</region>
+		<region con_id="ЕSA">
+			<continent>Източна Южна Америка</continent>
+			<climate>Тропичен</climate>
+			<timezone>UTC-3</timezone>
+		</region>	
+	</regions>
+	
+	<nations>
+		<nation nat_id="AR">
+			<demonym>Аржентинци</demonym>
+			<population>40 117 096</population>
+			<language>испански</language>
+			<religion>римокатолицизъм</religion>
+		</nation>	
+		<nation nat_id="PE">
+		
+			<demonym>Перуканци</demonym>
+			<population>32 162 184</population>
+			<language>испански</language>
+			<religion>римокатолицизъм</religion>
+		</nation>		
+		<nation nat_id="EC">
+			<demonym>Еквадорци</demonym>
+			<population>16 144 000</population>
+			<language>испански</language>
+			<religion>римокатолицизъм</religion>
+		</nation>		
+		<nation nat_id="CL">
+			<demonym>Чилиици</demonym>
+			<population>17 574 003</population>
+			<language>испански</language>
+			<religion>християнство</religion>
+		</nation>
+		<nation nat_id="UR">
+			<demonym>Уругвайци</demonym>
+			<population>17 574 003</population>
+			<language>испански</language>
+			<religion>християнство</religion>
+		</nation>
+
+		
+	</nations>
+	
+	<government_types>
+		<government_type gov_id = "GT01">
+			<type>Република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT02">
+			<type>Президентска република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT03">
+			<type>Парламентарна република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT04">
+			<type>Полупрезидентска република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT05">
+			<type>Монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT06">
+			<type>Абсолютна монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT07">
+			<type>Конституционна монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT08">
+			<type>Дуалистична монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT09">
+			<type>Парламентарна монархия</type>
+		</government_type>
+	</government_types>
+	
+	<organisations>
+		<organisation org_id="NATO">
+			<org_name>НАТО</org_name>
+			<year_establishment>1949</year_establishment>
+		</organisation>
+		
+		<organisation org_id="ES">
+			<org_name>Европейски съюз</org_name>
+			<year_establishment>1958</year_establishment>
+		</organisation>
+		
+		<organisation org_id="NAFTA">
+			<org_name>Северноамериканското споразумение за свободна търговия</org_name>
+			<year_establishment>1994</year_establishment>
+		</organisation>
+		
+		<organisation org_id="BU">
+			<org_name>Британската общност</org_name>
+			<year_establishment></year_establishment>
+		</organisation>
+		
+		<organisation org_id="AU">
+			<org_name>Африкански съюз</org_name>
+			<year_establishment>2002</year_establishment>
+		</organisation>
+		
+		<organisation org_id="OON">
+			<org_name>Организацията на обединените нации</org_name>
+			<year_establishment>1945</year_establishment>
+		</organisation>
+		
+		<organisation org_id="BRICS">
+			<org_name>БРИКС</org_name>
+			<year_establishment>2009</year_establishment>
+		</organisation>
+		
+		<organisation org_id="CPLP">
+			<org_name>Организация на португалско говорящите държави</org_name>
+			<year_establishment>1996</year_establishment>
+		</organisation>
+		<organisation org_id="SHEN">
+			<org_name>Шенгенско пространство</org_name>
+			<year_establishment>1985</year_establishment>
+		</organisation>
+		<organisation org_id="STO">
+			<org_name>Световна търговска организация</org_name>
+			<year_establishment>1995</year_establishment>
+		</organisation>
+	</organisations>
+	
+</cia>

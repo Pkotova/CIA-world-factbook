@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nations>
+   <nation>
+      <demonym>Българи</demonym>
+      <population>6 999 98</population>
+      <language>Българския</language>
+      <religion>Православно християнство</religion>
+   </nation>
+   <nation>
+      <demonym>Датчани</demonym>
+      <population>5 789 957</population>
+      <language>датски</language>
+      <religion>лутеранство</religion>
+   </nation>
+   <nation>
+      <demonym>Французи</demonym>
+      <population>67 348 </population>
+      <language>Френски</language>
+      <religion>Католицизъм</religion>
+   </nation>
+   <nation>
+      <demonym>Италианци</demonym>
+      <population>6 359 546</population>
+      <language>Италиански</language>
+      <religion>Християнство</religion>
+   </nation>
+   <nation>
+      <demonym>Германци</demonym>
+      <population>83 19 2</population>
+      <language>Немски </language>
+      <religion>Християнство</religion>
+   </nation>
+   <nation>
+      <demonym>Австриици</demonym>
+      <population>8 7 471</population>
+      <language>Немски </language>
+      <religion>Римокатолицизъм</religion>
+   </nation>
+   <nation>
+      <demonym>Руснаци</demonym>
+      <population>146 793 744</population>
+      <language>Руски</language>
+      <religion>Православно християнство</religion>
+   </nation>
+   <nation>
+      <demonym>Японци</demonym>
+      <population>127 94 745</population>
+      <language>японски</language>
+      <religion>шинтоизъм</religion>
+   </nation>
+   <nation>
+      <demonym>Индонезиици</demonym>
+      <population>237 641 326</population>
+      <language>индонезииски</language>
+      <religion>ислям</religion>
+   </nation>
+   <nation>
+      <demonym>Индиици</demonym>
+      <population>1 21 854 977</population>
+      <language>хинди</language>
+      <religion>индуизъм</religion>
+   </nation>
+   <nation>
+      <demonym>Иракчани</demonym>
+      <population>37 22 572</population>
+      <language>арабски</language>
+      <religion>ислям</religion>
+   </nation>
+   <nation>
+      <demonym>Виетнамци</demonym>
+      <population>96 28 984</population>
+      <language>виетнамски</language>
+      <religion>християнство</religion>
+   </nation>
+   <nation>
+      <demonym>Мексиканци</demonym>
+      <population>127 094 745</population>
+      <language>испански</language>
+      <religion>католицизъм</religion>
+   </nation>
+   <nation>
+      <demonym>Американци</demonym>
+      <population>308 745 538</population>
+      <language>английски</language>
+      <religion>християнство</religion>
+   </nation>
+   <nation>
+      <demonym>Южноафриканци</demonym>
+      <population>51 77 56</population>
+      <language>африканс</language>
+      <religion>Християнство</religion>
+   </nation>
+   <nation>
+      <demonym>Египтяни</demonym>
+      <population>94 798 827</population>
+      <language>арабски</language>
+      <religion>ислям</religion>
+   </nation>
+   <nation>
+      <demonym>Танзаниици</demonym>
+      <population>55 572 21</population>
+      <language>суахили</language>
+      <religion>ислям</religion>
+   </nation>
+   <nation>
+      <demonym>Суданци</demonym>
+      <population>39 578 828	</population>
+      <language>арабски</language>
+      <religion>ислям</religion>
+   </nation>
+   <nation>
+      <demonym>Либиици</demonym>
+      <population>5 67 688</population>
+      <language>арабски</language>
+      <religion>ислям</religion>
+   </nation>
+   <nation>
+      <demonym>Алжирец</demonym>
+      <population>42 2 </population>
+      <language>арабски</language>
+      <religion>ислям</religion>
+   </nation>
+   <nation>
+      <demonym>Бразилци</demonym>
+      <population>212 27 </population>
+      <language>Португалски</language>
+      <religion>Католицизъм</religion>
+   </nation>
+   <nation>
+      <demonym>Аржентинци</demonym>
+      <population>4 117 96</population>
+      <language>испански</language>
+      <religion>римокатолицизъм</religion>
+   </nation>
+   <nation>
+      <demonym>Перуканци</demonym>
+      <population>32 162 184</population>
+      <language>испански</language>
+      <religion>римокатолицизъм</religion>
+   </nation>
+   <nation>
+      <demonym>Еквадорци</demonym>
+      <population>16 144 </population>
+      <language>испански</language>
+      <religion>римокатолицизъм</religion>
+   </nation>
+   <nation>
+      <demonym>Чилиици</demonym>
+      <population>17 574 3</population>
+      <language>испански</language>
+      <religion>християнство</religion>
+   </nation>
+   <nation>
+      <demonym>Уругвайци</demonym>
+      <population>17 574 3</population>
+      <language>испански</language>
+      <religion>християнство</religion>
+   </nation>
+   <nation>
+      <demonym>Канадци</demonym>
+      <population>37 797 496</population>
+      <language>английски</language>
+      <religion>Католицизъм</religion>
+   </nation>
+   <nation>
+      <demonym>Австралийци</demonym>
+      <population>23 41 892</population>
+      <language>английски</language>
+      <religion>Християнство</religion>
+   </nation>
+</nations>

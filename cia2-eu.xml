@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cia SYSTEM "cia.dtd">
+<cia>
+	<countries>
+		<country id="0000FR1" region ="WEU" nation = "FR" government_type = "GT04" organisation ="ES OON NATO">
+			<name>франция</name>
+			<image_flag>france_flag.png</image_flag> 
+			<image_blazon>france_blazon.png</image_blazon> 
+			<capital>Париж</capital>
+			<anthem>
+			<song>
+				<title>Марсилезата</title>
+					<author>Роже дьо Лил</author>
+					<year>1795</year>
+			</song>
+				
+			</anthem>
+		</country>
+		
+		<country id="0000IT1" region ="SEU" nation = "IT" government_type = "GT03" organisation ="ES OON NATO SHEN">
+			<name>Италия</name>
+			<image_flag>italy_flag.png</image_flag> 
+			<image_blazon>italy_blazon.png</image_blazon> 
+			<capital>Рим</capital>
+			<anthem>
+			<song>
+				<title>Химнът на Мамели</title>
+				<author>Гофредо Мамели</author>
+				<year>2005</year>
+			</song>
+				
+			</anthem>
+		</country>
+		
+		<country id="0000DE1" region ="CEU" nation = "DE" government_type = "GT03" organisation ="ES OON NATO">
+			<name>Германия</name>
+			<image_flag>german_flag.png</image_flag> 
+			<image_blazon>german_blazon.png</image_blazon> 
+			<capital>Берлин</capital>
+			<anthem>
+			<song>
+				<title>Песента на немците</title>
+				<author>Хофман фон Фалерслебен,</author>
+				<year>1945</year>
+			</song>
+				
+			</anthem>
+		</country>
+		
+		<country id="0000DK1" region ="NEU" nation = "DK" government_type = "GT07" organisation ="ES OON NATO">
+			<name>Дания</name>
+			<image_flag>den_flag.png</image_flag> 
+			<image_blazon>den_blazon.png</image_blazon> 
+			<capital>Копенхаген</capital>
+			<anthem>
+				<song>
+					<title>Има една прекрасна страна</title>
+					<author>Адам Готлоб Йоленшлегер</author>
+					<year>1835</year>
+				</song>
+				
+			</anthem>
+		</country>
+		
+		<country id="0000АТ1" region ="CEU" nation = "АТ" government_type = "GT04" organisation ="ES OON NATO">
+			<name>Австрия</name>
+			<image_flag>austria_flag.png</image_flag> 
+			<image_blazon>austria_blazon.png</image_blazon> 
+			<capital>Виена</capital>
+			<anthem>
+				<song>
+					<title>Земя на планини, земя на реки</title>
+					<author>Паула фон Прерадович</author>
+					<year>1835</year>
+				</song>
+				
+			</anthem>
+		</country>
+	</countries>	
+	
+	<regions>
+		<region con_id="WEU">
+			<continent>Западна Европа</continent>
+			<climate>Умерено континентален</climate>
+			<timezone>UTC+1</timezone>
+		</region>
+		<region con_id="SEU">
+			<continent>Южна Европа</continent>
+			<climate>Субтропичен</climate>
+			<timezone>UTC+1</timezone>
+		</region>
+		<region con_id="CEU">
+			<continent>Централна Европа</continent>
+			<climate>Умерено континентален</climate>
+			<timezone>UTC+1</timezone>
+		</region>
+		<region con_id="NEU">
+			<continent>Северна Европа</continent>
+			<climate>Умерено континентален</climate>
+			<timezone>UTC+1</timezone>
+		</region>
+	</regions>
+	
+	<nations>
+		<nation nat_id="DK">
+			<demonym>Датчани</demonym>
+			<population>5 789 957</population>
+			<language>датски</language>
+			<religion>лутеранство</religion>
+		</nation>
+		<nation nat_id="FR">
+			<demonym>Французи</demonym>
+			<population>67 348 000</population>
+			<language>Френски</language>
+			<religion>Католицизъм</religion>
+		</nation>
+		<nation nat_id="IT">
+			<demonym>Италианци</demonym>
+			<population>60 359 546</population>
+			<language>Италиански</language>
+			<religion>Християнство</religion>
+		</nation>
+		<nation nat_id="DE">
+			<demonym>Германци</demonym>
+			<population>83 019 200</population>
+			<language>Немски </language>
+			<religion>Християнство</religion>
+		</nation>
+		<nation nat_id="AT">
+			<demonym>Австриици</demonym>
+			<population>8 700 471</population>
+			<language>Немски </language>
+			<religion>Римокатолицизъм</religion>
+		</nation>
+	</nations>
+	
+	
+<government_types>
+		<government_type gov_id = "GT01">
+			<type>Република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT02">
+			<type>Президентска република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT03">
+			<type>Парламентарна република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT04">
+			<type>Полупрезидентска република</type>
+		</government_type>
+		
+		<government_type gov_id = "GT05">
+			<type>Монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT06">
+			<type>Абсолютна монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT07">
+			<type>Конституционна монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT08">
+			<type>Дуалистична монархия</type>
+		</government_type>
+		
+		<government_type gov_id = "GT09">
+			<type>Парламентарна монархия</type>
+		</government_type>
+	</government_types>
+	
+	<organisations>
+		<organisation org_id="NATO">
+			<org_name>НАТО</org_name>
+			<year_establishment>1949</year_establishment>
+		</organisation>
+		
+		<organisation org_id="ES">
+			<org_name>Европейски съюз</org_name>
+			<year_establishment>1958</year_establishment>
+		</organisation>
+		
+		<organisation org_id="NAFTA">
+			<org_name>Северноамериканското споразумение за свободна търговия</org_name>
+			<year_establishment>1994</year_establishment>
+		</organisation>
+		
+		<organisation org_id="BU">
+			<org_name>Британската общност</org_name>
+			<year_establishment></year_establishment>
+		</organisation>
+		
+		<organisation org_id="AU">
+			<org_name>Африкански съюз</org_name>
+			<year_establishment>2002</year_establishment>
+		</organisation>
+		
+		<organisation org_id="OON">
+			<org_name>Организацията на обединените нации</org_name>
+			<year_establishment>1945</year_establishment>
+		</organisation>
+		
+		<organisation org_id="BRICS">
+			<org_name>БРИКС</org_name>
+			<year_establishment>2009</year_establishment>
+		</organisation>
+		
+		<organisation org_id="CPLP">
+			<org_name>Организация на португалско говорящите държави</org_name>
+			<year_establishment>1996</year_establishment>
+		</organisation>
+		<organisation org_id="SHEN">
+			<org_name>Шенгенско пространство</org_name>
+			<year_establishment>1985</year_establishment>
+		</organisation>
+		<organisation org_id="STO">
+			<org_name>Световна търговска организация</org_name>
+			<year_establishment>1995</year_establishment>
+		</organisation>
+</organisations>
+	
+</cia>
